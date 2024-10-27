@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @aeri23-cyber
 - 👀 I’m interested in programer
 - 🌱 I’m currently learning computer programing
-- 💞️ I’m looking to collaborate on ...
+- 
 - 📫 How to reach me aeri
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-
+- ⚡ Fun fact: i am student who wants to learn programming to pursue my dreams
+- 
 - 
 
 <!---m
